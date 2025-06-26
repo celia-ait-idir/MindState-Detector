@@ -1,5 +1,5 @@
 # MindState Detector
-# 🧠 Emotion Insight — Mental Health Classifier
+# 🧠 Emotion Insight Mental Health Classifier
 
 **Emotion Insight** is a mental health text classifier that detects emotions from what you write such as **depression, anxiety, stress, bipolar disorder, personality disorder, suicidal thoughts**, or **neutral** state
 and gives supportive advice based on your detected emotion.
