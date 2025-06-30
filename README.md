@@ -20,3 +20,7 @@ and gives supportive advice based on your detected emotion.
 - **PCA (Principal Component Analysis)** to reduce noise and speed up training .
 
 - **kaggle data set [Sentiment Analysis for Mental Health](https://www.kaggle.com/datasets/suchintikasarkar/sentiment-analysis-for-mental-health/data)**
+
+
+## Please take a look at my humble project (link is below)
+[MindState Detector](https://colab.research.google.com/drive/1VpeDLYQq2uRs13gFtstvvoAq5ZDQtQmZ?usp=sharing)
