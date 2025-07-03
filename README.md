@@ -22,5 +22,13 @@ and gives supportive advice based on your detected emotion.
 - **kaggle data set [Sentiment Analysis for Mental Health](https://www.kaggle.com/datasets/suchintikasarkar/sentiment-analysis-for-mental-health/data)**
 
 
-## Please take a look at my humble project (link is below)
+## Please take a look at the final project (link is below)
 [MindState Detector](https://colab.research.google.com/drive/1VpeDLYQq2uRs13gFtstvvoAq5ZDQtQmZ?usp=sharing)
+
+-the original data set is on kaggle [Sentiment Analysis for Mental Health](https://www.kaggle.com/datasets/suchintikasarkar/sentiment-analysis-for-mental-health/data)
+
+-and the clean one with tokenization and lemma is in the file under hte name of claned sentiment.
+
+
+
+thanks for your attention
